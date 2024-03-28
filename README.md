@@ -8,7 +8,7 @@
 
 [Android](#android)
 <br/>[English](#english)
-<br/>[Math][#math]
+<br/>[Math](#math)
 
 ## Android
 
